@@ -1,0 +1,4 @@
+dependencies:
+  - pip:
+      - python-dotenv==1.2.2
+      - boto3==1.43.72
