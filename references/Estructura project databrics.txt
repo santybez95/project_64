@@ -1,0 +1,31 @@
+data_pipeline/
+│
+├── databricks.yml
+├── pyproject.toml
+├── README.md
+│
+├── resources/
+│   └── jobs.yml
+│
+├── src/
+│   └── data_pipeline/
+│       ├── __init__.py
+│       │
+│       ├── ingestion/
+│       │   ├── __init__.py
+│       │   └── ingesta.py
+│       │
+│       ├── transformations/
+│       │   ├── __init__.py
+│       │   ├── bronze.py
+│       │   ├── silver.py
+│       │   └── gold.py
+│       │
+│       └── utils/
+│           ├── __init__.py
+│           └── helpers.py
+│
+└── tests/
+    ├── test_ingesta.py
+    ├── test_bronze.py
+    └── test_silver.py

@@ -56,8 +56,10 @@ from dotenv import find_dotenv, load_dotenv
 # CELL ********************
 
 def tabla():
-    return tabla
+    x = 2+2
+    return x
 
+x =  tabla()
 # METADATA ********************
 
 # META {

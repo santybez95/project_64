@@ -1,0 +1,22 @@
+
+# Crear un entorno 
+cd C:\Users\Santy\enviroments
+python -m venv analitica
+
+# Para activar el entorno en el que estoy trabajando es importante ejecutar:
+.\analitica\Scripts\Activate.ps1
+
+# Si dA ERROR ejecutar lo siguiente
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+#########################################
+activar en powershell
+.\analitica\Scripts\Activate.ps1
+
+activar en terminal de IDE
+& "C:\Users\Santy\enviroments\analitica\Scripts\Activate.ps1"
+
+
+# Siempre validar que este (analitica) en el terminal 
+
+

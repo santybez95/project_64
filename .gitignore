@@ -1,0 +1,111 @@
+# ==========================================
+# 📊 ARCHIVOS DE DATOS Y DOCUMENTOS
+# ==========================================
+# Hojas de cálculo y tabulares
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.ods
+
+# Documentos de texto y presentaciones
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.pbix
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# ==========================================
+# 📦 ARCHIVOS COMPRIMIDOS / ARCHIVOS GRANDES
+# ==========================================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.iso
+
+# ==========================================
+# 🐍 ENTORNO Y EJECUCIÓN DE PYTHON
+# ==========================================
+# Byte-compiled / archivos cacheados
+__pycache__/
+__pycache__/
+/__pycache__/
+
+*.py[cod]
+*$py.class
+
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.env/
+analitica/
+
+# Jupyter Notebooks (archivos temporales y de punto de control)
+.ipynb_checkpoints
+
+# ==========================================
+# 🔑 SEGURIDAD Y CONFIGURACIÓN LOCAL
+# ==========================================
+# Variables de entorno con claves/passwords
+.env
+.env.local
+*.pem
+*.key
+
+# ==========================================
+# 🖥️ SISTEMA OPERATIVO Y EDITORES
+# ==========================================
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSSharedFileList
+
+# VS Code / Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# 🖼️ MEDIOS Y EJECUTABLES
+# ==========================================
+# Imágenes pesadas / capturas
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+
+# Ejecutables y binarios
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+
+# Log files (Registros)
+*.log
+
+#ignore IA
+*.clineignore
