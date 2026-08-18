@@ -48,3 +48,19 @@ from dotenv import find_dotenv, load_dotenv
 # META   "language": "python",
 # META   "language_group": "synapse_pyspark"
 # META }
+
+# MARKDOWN ********************
+
+# ### funciones
+
+# CELL ********************
+
+def tabla():
+    return tabla
+
+# METADATA ********************
+
+# META {
+# META   "language": "python",
+# META   "language_group": "synapse_pyspark"
+# META }
