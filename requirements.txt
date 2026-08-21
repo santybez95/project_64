@@ -1,3 +1,6 @@
 boto3
 pandas
 dotenv
+numpy
+requests
+openpyxl

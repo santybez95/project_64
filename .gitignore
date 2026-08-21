@@ -107,5 +107,15 @@ $RECYCLE.BIN/
 # Log files (Registros)
 *.log
 
+# ===========================================
+# INTELIGENCIA ARTIFICAL
+# ===========================================
 #ignore IA
 *.clineignore
+
+#=============================================
+# EXTENCIONES FABRIC
+#=============================================
+.stubs/
+.vfscache/
+.vfsmeta/

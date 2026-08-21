@@ -59,7 +59,7 @@ def tabla():
     x = 2+2
     return x
 
-x =  tabla(
+x =  tabla()
 
 # METADATA ********************
 
